@@ -12,5 +12,6 @@ extern MicroBit& uBit;
 #endif
 
 void start_flashLed();
+void start_ntshell_task();
 
 #endif
