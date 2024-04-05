@@ -9,7 +9,7 @@ int main() {
     uBit.init();
     
     // LED点滅開始
-    start_flashLed();
+//    start_flashLed();
 
     start_ntshell_task();
 
